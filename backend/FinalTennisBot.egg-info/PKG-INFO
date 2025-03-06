@@ -1,0 +1,9 @@
+Metadata-Version: 2.2
+Name: FinalTennisBot
+Version: 0.1
+Requires-Dist: fastapi
+Requires-Dist: uvicorn
+Requires-Dist: aiohttp
+Requires-Dist: pytz
+Requires-Dist: rapidfuzz
+Dynamic: requires-dist
